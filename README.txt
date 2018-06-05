@@ -2,7 +2,7 @@ Introduction:
 =============
 Message queues provide an asynchronous communications protocol, meaning that the sender and receiver of the message do not need to interact with the message queue at the same time. Messages placed onto the queue are stored until the recipient retrieves them.
 
-YOu can get mor details about messageQ at:
+You can get more details about messageQ at:
 
 http://blog.codepath.com/2013/01/06/asynchronous-processing-in-web-applications-part-2-developers-need-to-understand-message-queues/
 http://blog.iron.io/2012/12/top-10-uses-for-message-queue.html
